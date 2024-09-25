@@ -1,2 +1,2 @@
 # RSA-with-GUI
-RSA Algorithm Code with a GUI - Cryptography Project 3
+RSA Algorithm Code with / without GUI - Cryptography Project 3
